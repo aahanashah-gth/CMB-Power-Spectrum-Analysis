@@ -83,20 +83,20 @@ $$\frac{\Delta C_\ell}{C_\ell}=\sqrt{\frac{2}{2\ell+1}}.$$
 ## Results
 
 ### 1. Theory Spectrum
-![CMB TT power spectrum](images/cmb_spectrum.png)
+![CMB TT power spectrum](cmb_spectrum.png)
 
 The first three acoustic peaks sit at $\ell\approx$ 220, 536 and 813,
 followed by Silk damping above $\ell\approx1000$.
 
 ### 2. Simulated Sky and Cosmic Variance
-![Simulated sky map](images/sky_map.png)
-![Cosmic variance](images/cosmic_variance.png)
+![Simulated sky map](simulated_sky.png)
+![Cosmic variance](cosmic_variance.png)
 
 The recovered spectrum scatters around the theory curve, and the scatter
 measured over 500 realizations matches $\sqrt{2/(2\ell+1)}$.
 
 ### 3. Parameter Experiments
-![Parameter experiments](images/parameter_experiments.png)
+![Parameter experiments](densities.png)
 
 | Parameter ↑ | Main effect |
 |---|---|
@@ -131,16 +131,6 @@ pip install camb healpy numpy scipy matplotlib jupyter
 jupyter notebook YOUR_NOTEBOOK.ipynb
 ```
 
-## Repository Structure
-```
-├── CMBproject.ipynb      # Main analysis notebook
-├── images/                  # Figures used in this README
-│   ├── cmb_spectrum.png
-│   ├── sky_map.png
-│   ├── cosmic_variance.png
-│   └── parameter_experiments.png
-└── README.md
-```
 
 ## References
 1. Planck Collaboration (2020). *Planck 2018 results. VI. Cosmological
