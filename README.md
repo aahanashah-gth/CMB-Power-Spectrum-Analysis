@@ -85,7 +85,7 @@ $$\frac{\Delta C_\ell}{C_\ell}=\sqrt{\frac{2}{2\ell+1}}.$$
 ### 1. Theory Spectrum
 ![CMB TT power spectrum](images/cmb_spectrum.png)
 
-The first three acoustic peaks sit at $\ell\approx$ ____, ____ and ____,
+The first three acoustic peaks sit at $\ell\approx$ 220, 536 and 813,
 followed by Silk damping above $\ell\approx1000$.
 
 ### 2. Simulated Sky and Cosmic Variance
