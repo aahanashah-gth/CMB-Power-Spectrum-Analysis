@@ -133,7 +133,7 @@ jupyter notebook YOUR_NOTEBOOK.ipynb
 
 ## Repository Structure
 ```
-├── YOUR_NOTEBOOK.ipynb      # Main analysis notebook
+├── CMBproject.ipynb      # Main analysis notebook
 ├── images/                  # Figures used in this README
 │   ├── cmb_spectrum.png
 │   ├── sky_map.png
