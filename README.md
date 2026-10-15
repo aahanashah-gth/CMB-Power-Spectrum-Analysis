@@ -118,19 +118,6 @@ noiseless (no mask, beam or foregrounds); parameters varied one at a time.
 **Future work:** polarization and B-modes, realistic masks and noise, and MCMC
 fitting of Planck data.
 
-## Getting Started
-
-**Run in Colab:** click the *Open in Colab* badge above, then
-*Runtime → Run all*.
-
-**Run locally:**
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
-pip install camb healpy numpy scipy matplotlib jupyter
-jupyter notebook YOUR_NOTEBOOK.ipynb
-```
-
 
 ## References
 1. Planck Collaboration (2020). *Planck 2018 results. VI. Cosmological
